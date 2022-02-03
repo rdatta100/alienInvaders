@@ -1,0 +1,23 @@
+Sanjana Kasetti sk2465, Rani Datta rd447
+12/9/2021
+
+EXTRA CREDIT: New Wave
+After the player kills all the aliens, they are given the
+option to continue and if they press "c" a new wave of aliens is created,
+but the player's lives and score remains the same. The aliens start from the
+initial starting position, in other words, the new wave of aliens does not
+continue from the point that they were all killed off.
+
+EXTRA CREDIT: Score
+Every time a player kills an alien the player is awarded
+some amount of points. The point value associated with each alien
+increases based on the row they are in so the aliens higher up will be
+valued more than the aliens at the bottom. The player's score remains the same
+when they continue are losing a life.
+
+EXTRA CREDIT: Sound
+When the ship shoots, it makes the pew noise. When the alien shoots, it makes
+the blast noise. When the alien is killed, it makes the pop noise. When the ship
+explodes, it makes a different blast noise. If you want to make our game even
+more fun, I would set all the sound attributes to 'blast3.wav', increase your
+volume to max, and enjoy the noises haha.
